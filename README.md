@@ -7,7 +7,7 @@ Proyek ini bertujuan untuk memprediksi dan mengklasifikasikan bioaktivitas senya
 # 🎉 Kelompok Bioinformatika Kelas RB - Kelompok 7 🎉
 
 1. **Yunita Amelia Puspitasari** (121450118) 
-2. **Arsyiah Azzahra** (121450035) 
+2. **Arsyiah Azahra** (121450035) 
 3. **Afwa Fuadi Nugraha** (121450019) 
 4. **Helma Lia Putri** (121450100) 
 5. **Nabilah Andika Fitriati** (121450139) 
